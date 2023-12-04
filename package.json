@@ -1,5 +1,8 @@
 {
   "name": "pnpm-ts-cli",
+  "bin": {
+    "runcli": "./index.js"
+  },
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
